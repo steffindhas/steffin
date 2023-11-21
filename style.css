@@ -1,0 +1,38 @@
+nav{
+   background-color: rgb(25, 44, 64); 
+color: white;
+padding: 20px;
+}
+li,ul{
+    display: inline;
+    margin: 20px;
+}
+h5{
+    margin-left: 40%;
+}
+ul{
+    margin-left:20% ;
+}
+body{
+    background: url('sre1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}  
+    
+.pic{
+ display: pic;
+ float: left;
+    
+}
+.heading{
+    margin-left: 10%;
+    color:white;
+}
+.para{
+    padding:10px ;
+    color: rgb(124, 104, 104);
+}
+.note{
+    padding: 10px;
+    color: white;
+}
